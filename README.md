@@ -10,8 +10,8 @@ Currently the following modules are included:
 
 - ESP32 Wroom 32
 
-<img src="https://github.com/dryas/librepcb_esp32/raw/main/images/symbol.png" height="606">
-<img src="https://github.com/dryas/librepcb_esp32/raw/main/images/footprint.png" height="606">
+<img src="https://github.com/dryas/librepcb_esp32/raw/main/images/symbol.png" height="306">
+<img src="https://github.com/dryas/librepcb_esp32/raw/main/images/footprint.png" height="306">
 
 ## License
 
