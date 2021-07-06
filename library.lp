@@ -6,5 +6,5 @@
  (version "0.1")
  (created 2021-07-05T21:12:28Z)
  (deprecated false)
- (url "")
+ (url "https://github.com/dryas/librepcb_esp32")
 )
