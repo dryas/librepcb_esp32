@@ -1,0 +1,10 @@
+(librepcb_package_category 33e9e876-b94e-4e9d-80dd-7c5118b1e79d
+ (name "Espressif Systems")
+ (description "Custom Packages of Expressif Systems")
+ (keywords "esp32,expressif,wroom")
+ (author "Benjamin Kaiser")
+ (version "0.1")
+ (created 2021-07-05T21:53:01Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
